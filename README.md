@@ -1,0 +1,1 @@
+There are a lot of different approaches when it comes to managing code using branches, some popular Git branching strategies are for example Git Flow, GitHub Flow, GitLab Flow, Trunk-based development and many more.
